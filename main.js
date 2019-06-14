@@ -36,7 +36,7 @@ regulatePressure = () => {
     rightScreen.setAttribute("material", "color: green");
     rightScreen.setAttribute("text", "value: WORKING");
 
-    window.setTimeout(resetValues, 5000)
+    window.setTimeout(resetValues, 7000)
 
 };
 
